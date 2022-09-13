@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/%7Breact_contact_manager-app%7D/static/css/main.1824b995.css",
+    "main.js": "/%7Breact_contact_manager-app%7D/static/js/main.79a0abf7.js",
+    "index.html": "/%7Breact_contact_manager-app%7D/index.html",
+    "main.1824b995.css.map": "/%7Breact_contact_manager-app%7D/static/css/main.1824b995.css.map",
+    "main.79a0abf7.js.map": "/%7Breact_contact_manager-app%7D/static/js/main.79a0abf7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1824b995.css",
+    "static/js/main.79a0abf7.js"
+  ]
+}
